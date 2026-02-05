@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36908.2 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IBM_16Jan26_CASPrjCore", "IBM_16Jan26_CASPrjCore\IBM_16Jan26_CASPrjCore.csproj", "{272FEAE3-C0E1-4E44-81AC-95434D946BF8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{272FEAE3-C0E1-4E44-81AC-95434D946BF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{272FEAE3-C0E1-4E44-81AC-95434D946BF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{272FEAE3-C0E1-4E44-81AC-95434D946BF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{272FEAE3-C0E1-4E44-81AC-95434D946BF8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6E65F0B-EFAF-46AC-BD67-9F0283496BDD}
+	EndGlobalSection
+EndGlobal
